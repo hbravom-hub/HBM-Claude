@@ -18,11 +18,18 @@
 - Fase 7 ✔ → `04-CHECKLIST-POST-ASAMBLEA-TACTAC.md` (BC 15 días naturales; aviso RFC 30 días hábiles)
 - Fase 8 ✔ cierre de calidad aplicado (verificación de referencias anexa en cada entregable)
 
-## Pendientes que condicionan la firma
-1. 🔴 **Sede**: la asamblea debe celebrarse en CDMX. El domicilio Cuautitlán Izcalli (Carr. Méx-Qro km 30, int. JB601, Cumbre Norte, 54769) NO puede ser sede salvo escritura posterior de cambio de domicilio o vía de resoluciones unánimes fuera de asamblea (Art. 43 estatutos / LGSM 178). Decisión de Humberto.
-2. `[CAMPO PENDIENTE]` fecha, hora y dirección CDMX; asistencia del comisario; importe de exhibición inicial (mínimo $400,000.00 = 20%); calendario del saldo (tope 1 año).
-3. 🟡 Cotejar testimonio físico: hueco de escaneo (final Art. 16, Art. 17 íntegro, inicio Art. 18).
-4. Al fijarse fecha real de asamblea: recomputar fechas fatales (renglones 3 y 4 del checklist).
+## @claude CHECKPOINT TACTAC-AUMENTO-CAPITAL · actualización 2026-07-16 (2ª sesión)
+- Humberto fijó: **asamblea 4 de mayo de 2026** (fecha pasada) y **sede Cuautitlán Izcalli**.
+- Sede resuelta con **cláusula curativa** del art. 179, párrafo tercero, LGSM (aprobación unánime + constancia de medios electrónicos + domicilio señalado en el acta); riesgo residual: Art. 31 estatutario no recoge la excepción → recomendar actualización estatutaria en próxima extraordinaria.
+- 🔴 **PLAZOS VENCIDOS** (regularización espontánea CFF 73, ejecutar YA):
+  - Beneficiario controlador (CFF 32-B Quinquies, 15 días naturales): venció **19-may-2026**. Multa si se pierde espontaneidad: CFF 84-M-II/84-N-II, $899,600–$1,124,500 **por cada BC** (son 2).
+  - Aviso socios/accionistas RFC (regla 2.4.14 / ficha 38/CFF): venció **16-jun-2026** (30 días hábiles; 5-may inhábil).
+  - La ficha 38/CFF exige **acta protocolizada y digitalizada** → protocolizar primero (la Resolución Quinta ya lo autoriza).
+
+## Pendientes
+1. `[CAMPO PENDIENTE]` hora de apertura y cierre; asistencia del comisario; importe de exhibición inicial (mínimo $400,000.00 = 20%); calendario del saldo (tope 4-may-2027).
+2. 🟡 Cotejar testimonio físico: hueco de escaneo (final Art. 16, Art. 17 íntegro, inicio Art. 18).
+3. Firmar acta → libros → protocolizar → BC hoy → aviso RFC espontáneo (orden del checklist 04).
 
 ## Reglas del asunto
 - Proporciones 80/20 intocables; prohibido redondear.

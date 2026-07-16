@@ -23,7 +23,7 @@ Capital fijo íntegramente suscrito y pagado en efectivo (declaración del admin
   - García Larqué: 20,000 × 20.00% = **4,000 acciones** → 4,000 × $100.00 = **$400,000.00**
 - Suma de control: 16,000 + 4,000 = 20,000 ✓ · $1,600,000.00 + $400,000.00 = $2,000,000.00 ✓
 - **Gate G4: acciones enteras para ambos socios. Sin redondeos.**
-- Suscripción a la par, sin prima. Exhibición: en numerario, con pago diferido — exhibición inicial `[CAMPO PENDIENTE — mínimo legal: 20% del valor de cada acción, artículo 89, fracción III, LGSM = $400,000.00 del total]` y saldo a más tardar `[CAMPO PENDIENTE — tope estatutario: un año desde la suscripción, Artículo Vigésimo Segundo, salvo plazo distinto que fije la asamblea]`.
+- Suscripción a la par, sin prima. Exhibición: en numerario, con pago diferido — exhibición inicial `[CAMPO PENDIENTE — mínimo legal: 20% del valor de cada acción, artículo 89, fracción III, LGSM = $400,000.00 del total]` y saldo a más tardar `[CAMPO PENDIENTE — tope estatutario: un año desde la suscripción del 4-may-2026, es decir, 4-may-2027, Artículo Vigésimo Segundo, salvo plazo distinto que fije la asamblea]`.
 
 ## 3. Situación posterior al aumento
 

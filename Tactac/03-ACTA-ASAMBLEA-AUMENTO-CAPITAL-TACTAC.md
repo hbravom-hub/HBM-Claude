@@ -1,13 +1,16 @@
 # 03 — ACTA DE ASAMBLEA · AUMENTO DE CAPITAL VARIABLE · TACTAC
 
-> **Estado: BORRADOR PARA FIRMA — con campos pendientes resaltados.**
-> ⚠️ Condicionante de firma (advertencia A1 del análisis): la asamblea **debe celebrarse en la Ciudad de México**, domicilio social estatutario. El domicilio de Cuautitlán Izcalli proporcionado no puede ser la sede so pena de nulidad (Artículo Trigésimo Primero estatutario; artículo 179 de la Ley General de Sociedades Mercantiles), salvo que se acredite cambio de domicilio social posterior o se opte por resoluciones unánimes fuera de asamblea.
+> **Estado: BORRADOR PARA FIRMA — campos pendientes resaltados (hora de apertura y cierre; asistencia del comisario; exhibición inicial; calendario del saldo).**
+> Sede en Cuautitlán Izcalli por instrucción de Humberto (2026-07-16): se incorpora **cláusula curativa** al amparo del artículo 179, párrafo tercero, LGSM — aprobación unánime de la totalidad de los accionistas para sesionar fuera del domicilio social, constancia de disponibilidad de medios electrónicos y señalamiento del domicilio de celebración en el acta. Riesgo residual descrito en la advertencia A1 del análisis (los estatutos de 2020 no recogen la excepción legal).
+> ⚠️ La asamblea se celebró el **4 de mayo de 2026**: los plazos fiscales posteriores **ya vencieron**. Ver plan de regularización espontánea en `04-CHECKLIST-POST-ASAMBLEA-TACTAC.md`.
 
 ---
 
 ## ACTA DE ASAMBLEA GENERAL ORDINARIA DE ACCIONISTAS DE "TRASLADOS Y ARRASTRES DE CARGA TERRESTRES AÉREOS Y CONSOLIDADOS", SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE
 
-En la Ciudad de México, domicilio social de "TRASLADOS Y ARRASTRES DE CARGA TERRESTRES AÉREOS Y CONSOLIDADOS", SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE (la "Sociedad"), en `[CAMPO PENDIENTE: dirección precisa dentro de la Ciudad de México]`, siendo las `[CAMPO PENDIENTE: hora]` horas del día `[CAMPO PENDIENTE: fecha, en letra]`, se reunieron los señores **Juan Alejandro García Trejo** y **Carlos Edgar García Larqué**, únicos accionistas de la Sociedad, titulares en conjunto de la totalidad de las acciones representativas del capital social, con el propósito de celebrar una asamblea general ordinaria de accionistas.
+En el inmueble ubicado en Carretera México-Querétaro, kilómetro 30, interior JB601, colonia Cumbre Norte, Cuautitlán Izcalli, código postal 54769, Estado de México, siendo las `[CAMPO PENDIENTE: hora]` horas del día **cuatro de mayo de dos mil veintiséis**, se reunieron los señores **Juan Alejandro García Trejo** y **Carlos Edgar García Larqué**, únicos accionistas de "TRASLADOS Y ARRASTRES DE CARGA TERRESTRES AÉREOS Y CONSOLIDADOS", SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE (la "Sociedad"), titulares en conjunto de la totalidad de las acciones representativas del capital social, con el propósito de celebrar una asamblea general ordinaria de accionistas.
+
+Como cuestión previa, los accionistas, que representan la totalidad de las acciones en que se divide el capital social, **aprobaron por unanimidad y de manera expresa la celebración de la presente asamblea fuera del domicilio social**, precisamente en el inmueble señalado en el párrafo anterior, y dejaron constancia de que existió la posibilidad de utilizar medios electrónicos, ópticos o de cualquier otra tecnología para su celebración, todo ello con fundamento en el artículo 179, párrafo tercero, de la Ley General de Sociedades Mercantiles, quedando señalado en la presente acta, para los efectos de dicho precepto, el domicilio en el cual se llevó a cabo.
 
 Por encontrarse reunida y representada la totalidad de las acciones en que se divide el capital social desde el momento de la instalación y hasta la terminación de la asamblea, ésta se celebra válidamente **sin necesidad de convocatoria previa**, con fundamento en el Artículo Trigésimo Quinto, último párrafo, de los estatutos sociales y en el artículo 188 de la Ley General de Sociedades Mercantiles. Los accionistas comparecen personalmente. Se hace constar que el comisario de la Sociedad, señor **Abraham Rubio Rosas**, fue citado a la asamblea; `[CAMPO PENDIENTE: constancia de asistencia o inasistencia del comisario]`.
 
@@ -60,7 +63,7 @@ IV. Designación de delegados especiales.
 
 **Punto IV.** Finalmente, los accionistas, por unanimidad, adoptaron la siguiente:
 
-> **RESOLUCIÓN QUINTA.** Se designa como **delegados especiales** de esta asamblea a los señores **Juan Alejandro García Trejo** y **Carlos Edgar García Larqué**, para que, conjunta o separadamente, ejecuten y formalicen las resoluciones adoptadas; realicen o instruyan los asientos en los libros corporativos y la emisión de los certificados y títulos; presenten ante el Servicio de Administración Tributaria el aviso de actualización de socios o accionistas previsto en el artículo 27, apartado B, fracción VI, del Código Fiscal de la Federación y en las disposiciones administrativas vigentes; actualicen el expediente de beneficiario controlador de la Sociedad conforme a los artículos 32-B Ter, 32-B Quáter y 32-B Quinquies del propio Código; y, en general, realicen cuantos actos resulten necesarios o convenientes para la plena eficacia de lo aquí resuelto, en el entendido de que el presente aumento, por corresponder a la parte variable del capital social, no requiere protocolización ante fedatario público ni inscripción en el Registro Público de Comercio, conforme a los artículos 213 y 219 de la Ley General de Sociedades Mercantiles.
+> **RESOLUCIÓN QUINTA.** Se designa como **delegados especiales** de esta asamblea a los señores **Juan Alejandro García Trejo** y **Carlos Edgar García Larqué**, para que, conjunta o separadamente, ejecuten y formalicen las resoluciones adoptadas; realicen o instruyan los asientos en los libros corporativos y la emisión de los certificados y títulos; presenten ante el Servicio de Administración Tributaria el aviso de actualización de socios o accionistas previsto en el artículo 27, apartado B, fracción VI, del Código Fiscal de la Federación y en las disposiciones administrativas vigentes; actualicen el expediente de beneficiario controlador de la Sociedad conforme a los artículos 32-B Ter, 32-B Quáter y 32-B Quinquies del propio Código; y, en general, realicen cuantos actos resulten necesarios o convenientes para la plena eficacia de lo aquí resuelto. Lo anterior, en el entendido de que el presente aumento, por corresponder a la parte variable del capital social, no requiere para su validez protocolización ante fedatario público ni inscripción en el Registro Público de Comercio, conforme a los artículos 213 y 219 de la Ley General de Sociedades Mercantiles; sin perjuicio de lo cual se autoriza a los delegados especiales para comparecer, conjunta o separadamente, ante el fedatario público de su elección a protocolizar total o parcialmente la presente acta cuando ello resulte necesario o conveniente para la realización de trámites administrativos, incluido el aviso de actualización de socios o accionistas ante el Servicio de Administración Tributaria.
 
 ### V. Cierre
 
@@ -84,7 +87,7 @@ No habiendo otro asunto que tratar, se suspendió la asamblea por el tiempo nece
 
 ### ANEXO ÚNICO — LISTA DE ASISTENCIA
 
-Asamblea general ordinaria de accionistas de "Traslados y Arrastres de Carga Terrestres Aéreos y Consolidados", S.A. de C.V., celebrada el `[CAMPO PENDIENTE: fecha]`.
+Asamblea general ordinaria de accionistas de "Traslados y Arrastres de Carga Terrestres Aéreos y Consolidados", S.A. de C.V., celebrada el 4 de mayo de 2026.
 
 | Accionista | Comparecencia | Acciones | Capital representado | % | Firma |
 |---|---|---:|---:|---:|---|
@@ -100,6 +103,7 @@ El suscrito escrutador certifica que la presente lista de asistencia comprende l
 
 ## VERIFICACIÓN DE REFERENCIAS
 - Fundamentos estatutarios citados y cotejados contra el testimonio de la escritura 120,891: Artículos Sexto, Décimo Primero, Décimo Quinto, Décimo Sexto, Décimo Octavo, Vigésimo, Vigésimo Primero, Vigésimo Segundo, Trigésimo Quinto, Trigésimo Séptimo, Cuadragésimo y Cuadragésimo Primero.
-- Fundamentos legales verificados contra fuente viva el 2026-07-16: LGSM 89-III, 125-V, 128, 132, 133, 188, 213, 216, 219; CFF 27-B-VI, 32-B Ter, 32-B Quáter, 32-B Quinquies.
+- Fundamentos legales verificados contra fuente viva el 2026-07-16: LGSM 89-III, 125-V, 128, 132, 133, 179 (párrafo tercero, transcrito literalmente), 188, 213, 216, 219; CFF 27-B-VI, 32-B Ter, 32-B Quáter, 32-B Quinquies.
 - Montos en número y letra; proporciones pre/post comprobadas (80%/20% invariables).
-- Campos pendientes: fecha, hora y dirección en CDMX; asistencia del comisario; importe de la exhibición inicial; calendario del saldo; hora de cierre. **Ninguno fue inventado.**
+- Datos fijados por Humberto (2026-07-16): fecha 4 de mayo de 2026; sede Carr. México-Querétaro km 30, int. JB601, Cumbre Norte, Cuautitlán Izcalli, 54769, EdoMex; mesa Trejo/Larqué; numerario con pago diferido; delegados: ambos socios.
+- Campos pendientes: hora de apertura y de cierre; asistencia del comisario; importe de la exhibición inicial; calendario del saldo. **Ninguno fue inventado.**
